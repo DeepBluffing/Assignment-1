@@ -38,6 +38,27 @@ While Value Iteration iterates over values, Policy Iteration directly updates th
 
 ---
 
+## Task 3: Watch Your Algorithms Play!
+
+Once you have completed the `TODO` blocks and your math is correct, you can sit back and watch your algorithms solve the maze in real-time. We have included two visualizer scripts that will boot up the Gymnasium GUI.
+
+To see your **Value Iteration** algorithm in action, run:
+```bash
+python watch_value.py
+
+```
+
+To see your **Policy Iteration** algorithm in action, run:
+
+```bash
+python watch_policy.py
+
+```
+
+*If your Bellman equations are correct, you will see the agent perfectly navigate the ice and grab the treasure. If there is a bug in your math, the agent will likely fall into a hole!*
+
+---
+
 
 ## How to Submit
 Simply push your code to the `main` branch. 
