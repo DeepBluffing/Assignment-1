@@ -1,6 +1,7 @@
 # Deep Bluffing: Assignment 1
 
 You will build two core algorithms: Value Iteration and Policy Iteration. You have been provided with the Python starter files. Your task is to complete the mathematical updates within the `TODO` blocks.
+For reference: https://gibberblot.github.io/rl-notes/index.html
 
 > **Note:** Do not modify the function signatures or the boilerplate environment setup. Focus solely on translating the Bellman equations into Python logic.
 
